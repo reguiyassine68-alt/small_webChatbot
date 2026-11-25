@@ -1,0 +1,13 @@
+
+.env
+.venv/
+venv/
+env/
+Pipfile.lock
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
